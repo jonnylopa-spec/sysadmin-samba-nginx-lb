@@ -1,0 +1,5 @@
+smbuser -fstype=cifs,rw,username=smbuser,password=smbuser ://10.10.0.239/smbuser
+
+
+
+
